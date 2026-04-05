@@ -6,3 +6,4 @@ bcrypt==4.0.1
 python-jose
 email-validator
 argon2_cffi
+psycopg2
